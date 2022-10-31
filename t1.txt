@@ -1,0 +1,2 @@
+Add the chart function.
+Add the merger function.
