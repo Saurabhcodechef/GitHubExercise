@@ -2,3 +2,4 @@ Add the chart function.
 Add the merger function.
 Add the new function
 add n1 function
+add n2 function
